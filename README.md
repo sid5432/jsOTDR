@@ -62,7 +62,7 @@ from the top level directory to install these modules.  Run
 
     npm test
 
-to run the tests. This requires the (mocha)[https://github.com/mochajs/mocha] package, but it is required only for unit testing;
+to run the tests. This requires the [mocha](https://github.com/mochajs/mocha) package, but it is required only for unit testing;
 it is not needed for running the *jsOTDR* module itself.
 
 

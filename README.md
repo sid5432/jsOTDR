@@ -1,4 +1,4 @@
-# rbOTDR: Simple OTDR SOR file parser for node.js
+# jsOTDR: Simple OTDR SOR file parser for node.js
 
 The SOR ("Standard OTDR Record") data format is used to store OTDR 
 ([optical time-domain

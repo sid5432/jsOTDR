@@ -1,0 +1,23 @@
+{
+  "name": "jsotdr",
+  "version": "1.0.0",
+  "description": "simple OTDR SOR file parser",
+  "main": "jsOTDR.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "OTDR",
+    "SOR",
+    "Telcordia",
+    "SR-4731"
+  ],
+  "author": "Sidney Li <sidney.hy.li@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "binary-file": "^0.2.1",
+    "crc": "^3.5.0"
+  }
+}

@@ -1,6 +1,5 @@
 #!/usr/local/bin/node
 const assert = require('assert');
-require('asyncawait/async');
 const path = require('path'),
       BF = require('binary-file');
 const Parts = require('../lib/parts');

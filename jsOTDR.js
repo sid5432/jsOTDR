@@ -1,8 +1,5 @@
 #!/usr/local/bin/node
 'use strict';
-const async = require('asyncawait/async'),
-      await = require('asyncawait/await');
-
 const path = require('path'),
 	BF = require('binary-file');
 

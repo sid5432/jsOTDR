@@ -16,7 +16,6 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "asyncawait": "^1.0.6",
     "binary-file": "^0.2.1",
     "crc": "^3.5.0"
   }
